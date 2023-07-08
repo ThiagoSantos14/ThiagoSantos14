@@ -21,9 +21,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thiago-santos-frontend-707094240/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo"/></a>
-  <a href="https://www.instagram.com/14thiagosantos10/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="instagram logo"/></a>
-  <a href="https://twitter.com/14ThiagoSantos" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="50" alt="twitter logo"/></a>
+  <a href="https://www.linkedin.com/in/thiago-santos-frontend-707094240/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"/></a>
+  <a href="https://www.instagram.com/14thiagosantos10/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"/></a>
+  <a href="https://twitter.com/14ThiagoSantos" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="50" alt="twitter logo"/></a>
 </div>
 
 ###
