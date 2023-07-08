@@ -1,27 +1,92 @@
-“O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.”
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
+</div>
 
+###
+
+<h1 align="center">Oi sou o Thiago sou fascinado em programar,</h1>
+
+###
+
+<h4 align="center">“O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.”</h4>
+
+###
+
+<p align="left"></p>
+
+###
 
 <h3 align="left">Conecte-se comigo:</h3>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/14thiagosantos10/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-santos-707094240/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/14ThiagoSantos) 
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/14thiagosantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/14thiagosantos" height="30" width="40" /></ a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thiago-santos-707094240/" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin .com/in/thiago-santos-707094240/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/14thiagosantos10/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/14thiagosantos10/" height="30" width=" 40" /></a>
-</p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThiagoSantos14&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoSantos14&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSantos14&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThiagoSantos14&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="450" height="50" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="450" height="50" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="450" height="50" alt="twitter logo"  />
+</div>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/14ThiagoSantos/)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=ThiagoSantos14&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h3 align="left">Idiomas e ferramentas:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoSantos14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoSantos14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<img src="https://raw.githubusercontent.com/ThiagoSantos14/ThiagoSantos14/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ThiagoSantos14/count.svg?"  />
+</div>
+
+###
