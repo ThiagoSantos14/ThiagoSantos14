@@ -73,7 +73,6 @@
 
 ###
 
-![snake gif](https://github.com/ThiagoSantos14/ThiagoSantos14/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
