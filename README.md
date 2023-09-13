@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Oi sou o Thiago sou fascinado em programar,</h1>
+<h1 align="center">Oi me chamo Thiago sou fascinado em programar,</h1>
 
 ###
 
