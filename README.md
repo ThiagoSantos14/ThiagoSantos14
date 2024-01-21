@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="center">Atualmente uso!</h2>
+<h2 align="center">Ferramentas que domino!</h2>
 
 ###
 
