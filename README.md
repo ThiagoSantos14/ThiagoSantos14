@@ -51,11 +51,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="83" height="33" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ThiagoSantos14/ThiagoSantos14/output/snake.svg" alt="Snake animation" />
-
-###
